@@ -20,6 +20,8 @@ You may need to restart TextWrangler for the changes to take effect.
 
 I have also created a package for BBEdit which does everything this TextWrangler one can do, plus more!
 
+[https://github.com/gingerbeardman/monkey.bbedit](https://github.com/gingerbeardman/monkey.bbedit)
+
 If you own BBEdit, you probably want to use that one instead.
 
 ## License
