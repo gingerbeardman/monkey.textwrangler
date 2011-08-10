@@ -6,8 +6,12 @@ This codeless language module lets you to use the Mac OS X editor [TextWrangler]
 Created by Matt Sephton, [http://www.gingerbeardman.com/monkey/](http://www.gingerbeardman.com/monkey/)
 
 ## Features
-* Syntax Colouring (Keywords, Constants, Strings, Comments)
-* Function/Class/Method scanning and indexing
+
+**Syntax Colouring**  
+Easily see the difference between keywords, constants, strings and comments
+
+**Easy Source Navigation**  
+Navigate around your source using the index of functions, classes and methods
 
 ## Installation
 Copy or move the `MonkeyCodelessLanguageModule.plist` file to the folder at:
