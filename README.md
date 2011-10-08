@@ -37,3 +37,20 @@ You can talk about the package on the [official monkey forum](http://www.monkeyc
 ## Requirements
 - TextWrangler [http://www.barebones.com/products/textwrangler/](http://www.barebones.com/products/textwrangler/)
 - monkey [http://www.monkeycoder.co.nz](http://www.monkeycoder.co.nz)
+
+## Changelog
+
+2011-10-08  
+- Added FirstNode, LastNode, NextNode, PrevNode, Exp (v45c)  
+- Added DisableKeyboard, EnableKeyboard (v45)  
+- Added ACosr, ASinr, ATan2r, ATanr, Cosr, Sinr, Tanr (v44)  
+- Added DrawPoly (v43)  
+- Added App: UpdateRate  
+- Added Audio: music commands (v35), Discard  
+- Added Graphics: DeviceHeight, DeviceWidth, Frames, HandleX, HandleY, Height, Width  
+- Added Lang: Print, Length, Resize, Compare, ToLower, ToUpper, Trim  
+- Added List: Backwards, Clear, Count, First, IsEmpty, Last, LastNode, ObjectEnumerator, RemoveFirst, RemoveLast, Value, ToArray  
+- Added Map: Set, Values, Key  
+- Added Random: Seed  
+- Added Set: Insert  
+- Added Stack: Insert, Pop, Push, Top  
