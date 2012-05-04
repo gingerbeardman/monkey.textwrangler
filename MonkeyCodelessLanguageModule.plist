@@ -51,6 +51,7 @@
 		<string>DrawImageRect</string>
 		<string>DrawLine</string>
 		<string>DrawOval</string>
+		<string>DrawPoint</string>
 		<string>DrawPoly</string>
 		<string>DrawRect</string>
 		<string>DrawText</string>
