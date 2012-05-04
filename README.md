@@ -40,6 +40,9 @@ You can talk about the package on the [official monkey forum](http://www.monkeyc
 
 ## Changelog
 
+2012-05-04  
+- Added DrawPoint (v50)  
+
 2011-10-08  
 - Added FirstNode, LastNode, NextNode, PrevNode, Exp (v45c)  
 - Added DisableKeyboard, EnableKeyboard (v45)  
